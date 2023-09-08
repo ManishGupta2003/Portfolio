@@ -1,0 +1,60 @@
+
+/* navbar  */
+nav button{
+    margin-left: 1em;
+    margin-right: 2em
+}
+
+/* intro  */
+#intro h1{
+    font-size: 2.5em;
+}
+#intro h3{
+    font-size: 1.8em;
+} 
+
+/* about me  */
+
+.head h5{
+    width: 16em;
+}
+.head h1{
+    font-size: 2em;
+}
+
+/* experience  */
+#experince h1 {
+    font-size: 1.5em;
+    width: 13em;
+}
+
+.exline{
+    height: 8.9em;
+}
+
+/* box  */
+.box{
+    margin: 0.4em;
+    
+}
+
+/* project  */
+.projectimg{
+    display: block;
+ }
+ .proline{
+    height: 0em;
+    border: 0px;
+    
+ }
+ .proline2{
+    height: 0em;
+    border: 0px black;
+
+ }
+
+
+ /* contact  */
+ #contant .sub{
+    display: block;
+ }
