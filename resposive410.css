@@ -1,12 +1,9 @@
 
 #top{
-    font-size: 0.5em;
+    font-size: 0.6em;
 }
 
 /* navbar  */
-#intro{
-    padding-top: 5em;
-}
 nav{
     font-size: 1em;
 }
@@ -27,6 +24,9 @@ nav button{
 }
 
 /* intro  */
+#intro{
+    padding-top: 5em;
+}
 #intro h1 {
    font-size: 2em;  
 }
@@ -53,6 +53,9 @@ nav button{
     top: -9em;
 
 }
+.head h1 {
+    font-size: 1.8em;
+}
 .btncv{
     position: relative;
     top: -24em;
@@ -69,12 +72,28 @@ nav button{
 .projectimg .imageproject{
     padding: 0em;
 }
-
+.promore
+{
+    border: 0.05em solid  #fcbb10;
+}
 /* contact  */
 #contant h1{
     font-size: 1.8em;
 }
 
+/* box  */
 .box{
     background-color:#3b3c3b;
+    width: 10em;
+    height: 10em;
+}
+.box img{
+    width: 5em;
+    padding: 1em;
+    margin-left: 0.5em;
+}
+
+/* project  */
+.head2{
+    font-size: 1.4em;
 }
