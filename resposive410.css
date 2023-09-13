@@ -4,6 +4,9 @@
 }
 
 /* navbar  */
+#intro{
+    padding-top: 5em;
+}
 nav{
     font-size: 1em;
 }
